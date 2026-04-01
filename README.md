@@ -1,5 +1,5 @@
 ## Hey, I'm Arda Atakan 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=800&size=22&duration=4000&pause=1000&color=010304&multiline=true&width=435&height=65&lines=backend%2C+system+design%2C+cloud;coffee+first.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=800&size=22&duration=4000&pause=1000&color=010304&multiline=true&width=435&height=75&lines=backend%2C+system+design%2C+cloud;but+coffee+first.+)](https://git.io/typing-svg)
 
 ---
 
