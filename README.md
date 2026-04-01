@@ -3,7 +3,7 @@
 
 ---
 
-### About
+### About me
 
 I'm into backend development, system design, and cloud technologies. I care about how services communicate, how data flows through a system, and what it takes to make things reliable at scale. Always somewhere between building something and reading about how others built theirs.
 
